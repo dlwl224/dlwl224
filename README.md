@@ -1,11 +1,9 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Security%20Portfolio&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Policy%20%C3%97%20Code%20%C3%97%20Automation&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Security%20Portfolio&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Policy%20%C3%97%20Code%20%C3%97%20Automation&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=%EB%B3%B4%EC%95%88%EC%9D%84+%EA%B8%B0%EC%88%A0%EB%A1%9C+%ED%95%B4%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4+%F0%9F%9B%A1%EF%B8%8F;Web+Pentest+%7C+Secure+Coding;URL-BERT+Phishing+Detection+99.72%25" alt="Typing SVG" />
-</p>
+<h3 align="center">🛡️ 보안을 기술로 해결합니다</h3>
 
 <p align="center">
   <a href="https://mynote6336.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a>
