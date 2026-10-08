@@ -67,7 +67,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [SQanaR](https://github.com/dlwl224/final_sqanar)
+### 🔍 [SQanaR](https://github.com/dlwl224/sqanar-quishing-detector)
 **URL-BERT 기반 큐싱(QR 피싱) 탐지 앱**<br/>
 `2025.03 ~ 2025.11` · 팀 · AI 모델·백엔드
 
