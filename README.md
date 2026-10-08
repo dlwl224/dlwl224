@@ -26,8 +26,7 @@
 **정책을 이해하고, 코드를 읽고, 반복되는 위험을 구조로 해결합니다.**
 
 - 🎓 덕성여자대학교 **사이버보안전공** 졸업 (2026.02)
-- 🏢 **BMW Korea IT 인턴** — 정보보호 실무 6개월
-- 🏆 사내 AI 해커톤 **2위** · 학술제 **최우수상**
+- 🏆 과학기술대학 학술제 **최우수상** (SQanaR)
 - 🔍 관심 분야: **정보보호 관리체계(ISMS-P)** · 보안 진단 · 보안 자동화
 - 🌏 Language: 한국어 · English (OPIc IH) · 中文 (HSK 5급)
 
@@ -52,7 +51,7 @@ motto: "근거를 먼저 만들고 공유한다"
 ```mermaid
 flowchart LR
     A["🔓 공격 이해<br/>Web Pentest · Secure Coding"] --> B["🤖 위협 탐지<br/>URL-BERT · Feature Engineering"]
-    B --> C["🏢 관리체계<br/>Policy · KPI · SAST Process"]
+    B --> C["🏢 관리체계<br/>Policy · Compliance · ISMS-P"]
     C --> D["⚙️ 자동화<br/>AI Agent · Workflow"]
     D -. 반복 위험을 구조로 해결 .-> A
 ```
@@ -90,21 +89,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 </div>
-
----
-
-## 💼 Experience
-
-### 🚗 BMW Korea — IT Intern `2026.01 ~ 2026.06`
-
-| 영역 | 주요 업무 |
-| :--- | :--- |
-| 🛡️ **정보보호** | 소스코드 보안 점검 프로세스 관리 · 정보보호 정책 문서 최신화 · 개인정보보호 솔루션 도입 지원 · 이행점검 지원 |
-| ☁️ **클라우드 보안** | 클라우드 서버 취약점 조치 · IaC 기반 인프라 배포 지원 |
-| 📊 **모니터링** | 대시보드 자동 점검 프로세스 구축 · 일별 에러 로그 분석 |
-| 🤖 **AI 자동화** | n8n 기반 통합 AI 에이전트 설계 → **사내 AI 해커톤 2위** |
-
-> 💡 반복 등록되는 소스코드 취약점의 원인이 **대응 가이드 부재**임을 찾아, 개발자용 조치 방법과 보안 담당자용 정책 근거를 함께 담은 가이드를 만들어 재등록 빈도를 줄였습니다.
 
 ---
 
@@ -202,7 +186,6 @@ flowchart LR
 
 | | |
 | :--- | :--- |
-| 🥈 | BMW Korea 사내 AI 해커톤 **2위** (2026) |
 | 🥇 | 덕성여대 과기대 학술제 **최우수상** (2025.11) |
 | 🎯 | NH농협 AI 아이디어 챌린지 **1차 예선 통과** · 팀장 (2025) |
 
