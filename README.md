@@ -16,7 +16,7 @@
 **공격을 이해하고, 위협을 탐지하고, 반복되는 위험을 구조로 해결합니다.**
 
 - 🔓 취약한 웹 서버를 직접 구축·공격하고 **시큐어 코딩으로 조치**해 본 경험
-- 🤖 URL-BERT를 직접 구현해 큐싱(QR 피싱) URL을 **정확도 99.72%** 로 탐지
+- 🤖 URL 특화 언어모델 URLBERT를 파인튜닝해 큐싱(QR 피싱) URL을 **정확도 99.64%** 로 탐지
 - 🏆 SQanaR 프로젝트로 과학기술대학 학술제 **최우수상**
 - 🔍 관심 분야: **정보보호 관리체계(ISMS-P)** · 웹 취약점 진단 · AI 기반 위협 탐지 · 보안 자동화
 
@@ -71,8 +71,8 @@ flowchart LR
 **URL-BERT 기반 큐싱(QR 피싱) 탐지 앱**<br/>
 `2025.03 ~ 2025.11` · 팀 · AI 모델·백엔드
 
-- URL-BERT 직접 구현, URL+Header 10만 건 파인튜닝
-- **Accuracy / F1 99.72%** (XGBoost 95.99%, BERT 94.03%)
+- URLBERT 도입, URL+Header 10만 건으로 파인튜닝
+- **Accuracy / F1 99.64%** (XGBoost 95.99%, BERT 94.03%)
 - WHOIS·TLD·Subdomain 등 30+ Feature 파이프라인
 - 블랙리스트에 없는 **제로데이 URL** 탐지
 - LangChain + FAISS 보안 지식 챗봇
@@ -83,7 +83,7 @@ flowchart LR
 </td>
 <td width="50%" valign="top">
 
-### 🔓 [Web Pentest & Secure Coding](https://github.com/dlwl224/sc_pro)
+### 🔓 [Web Pentest & Secure Coding](https://github.com/dlwl224/web-vuln-pentest-lab)
 **취약한 웹앱 구축 → 모의해킹 → 조치**<br/>
 `2025.11` · 개인 · 기여도 100%
 
